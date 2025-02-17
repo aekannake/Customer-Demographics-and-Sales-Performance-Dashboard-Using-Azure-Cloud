@@ -11,6 +11,8 @@ The business has identified a gap in understanding customer demographics—speci
 
 ## Solution Overview
 To meet these requirements, the solution is broken down into the following components:
+![image](https://github.com/user-attachments/assets/c6cdee11-4bac-46e1-a760-612c5711b456)
+
 ### 1.	Data Ingestion:
 	-> Extract customer and sales data from an on-premises SQL database.
   -> Load the data into Azure Data Lake Storage (ADLS) using Azure Data Factory (ADF).
